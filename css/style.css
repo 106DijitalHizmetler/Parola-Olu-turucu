@@ -264,7 +264,6 @@ textarea{
   line-height: normal;
 }
 .site-footer-link {
-  color: rgb(124,204,196);
   font-size: var(--copyright-font-size);
   font-weight: var(--font-weight-medium);
   line-height: normal;
@@ -301,3 +300,6 @@ textarea{
   justify-self: center;
 }
 
+.requirements {
+  display: none;
+}
